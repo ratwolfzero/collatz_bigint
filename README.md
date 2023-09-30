@@ -1,5 +1,5 @@
 # collatz_bigint
-Program to calculate the Collatz sequence for vera large integers.
+Program to calculate the Collatz sequence for very large integers.
 Using crate BigInt.
 
 input value can be entered like 27, 2^199, or 2^199-1.

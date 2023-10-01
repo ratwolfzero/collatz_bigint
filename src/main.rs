@@ -81,7 +81,9 @@ fn main() {
     println!();
     println!();
     println!("stopping time: {}", sequence.len() - 1);
+    println!();
     println!("max: {}", max_value);
+    println!();
     println!("max pos: {}", max_index);
     println!("even: {}", even);
     println!("odd: {}", odd);

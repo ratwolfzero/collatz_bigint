@@ -56,7 +56,7 @@ fn main() {
             return;
         }
     };
-
+    println!("Parsed input: {}", input_value);
     println!();
 
     let sequence = collatz(input_value);
